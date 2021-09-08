@@ -1,5 +1,5 @@
 {
-  "name": "next-logger",
+  "name": "@codecademy/next-logger",
   "version": "2.1.0",
   "description": "JSON logging patcher for Next.js",
   "main": "index.js",
